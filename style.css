@@ -204,3 +204,13 @@ header{
     width: 2rem;
     cursor: pointer;
 }
+@media screen and(width<800px){
+    html{
+        font-size: 0.6rem;
+    }
+}
+@media screen and(width<450px){
+    html{
+        font-size: 0.3rem;
+    }
+}
