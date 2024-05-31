@@ -231,7 +231,10 @@ header{
         font-size: 0.3rem;
     }
     button{
-        font-size: 0.65rem;
+        font-size: 0.7rem;
+    }
+    #touchbtn{
+        font-size: 0.6rem;
     }
     #logoimg{
         width: 10rem;
