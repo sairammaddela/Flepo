@@ -208,6 +208,15 @@ header{
     html{
         font-size: 0.5rem;
     }
+    .cube-content{
+        width:14rem;
+    }
+    .rect-content{
+        width: 30rem;
+    }
+    #ecommercesec{
+        width: 14rem;
+    }
   }
 @media only screen and (max-width: 450px) {
     html{
