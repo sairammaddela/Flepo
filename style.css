@@ -216,4 +216,7 @@ header{
     button{
         font-size: 0.65rem;
     }
+    #logoimg{
+        width: 10rem;
+    }
   }
