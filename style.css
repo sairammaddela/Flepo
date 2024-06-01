@@ -229,6 +229,9 @@ header{
     #logoimg{
         width: 13rem;
     }
+    .pic{
+        width:24;
+    }
   }
   @media only screen and (max-width: 1200px)and  (min-width:801px){
     html{
@@ -238,7 +241,7 @@ header{
         font-size: 0.8rem;
     }
   }
-@media only screen and (max-width: 450px) {
+@media only screen and (max-width: 460px) {
     html{
         font-size: 0.3rem;
     }
@@ -250,6 +253,9 @@ header{
     }
     #logoimg{
         width: 10rem;
+    }
+    .pics{
+        width:22rem;
     }
   }
 
@@ -272,7 +278,7 @@ header{
         width: 12rem;
     }
 }
-@media only screen and (max-width: 540px) and  (min-width:451px){
+@media only screen and (max-width: 540px) and  (min-width:461px){
     html{
         font-size: 0.35rem;
     }
